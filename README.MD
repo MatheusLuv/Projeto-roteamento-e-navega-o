@@ -18,9 +18,7 @@ npx expo install react-native-gesture-handler react-native-reanimated react-nati
 
 🛠️ Estrutura do Projeto
 Tela Home
-
 Tela1
-
 Tela2
 
 Sistema de navegação entre telas com botões.
