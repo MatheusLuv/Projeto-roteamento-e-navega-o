@@ -6,13 +6,11 @@ Este projeto foi desenvolvido com **React Native (Expo)** utilizando o sistema d
 
 ## ✅ Criar um novo app  
 
-```bash
 npx create-expo-app MeuApp
 cd MeuApp
 
 📦 Instalar as dependências de navegação/roteamento
 
-```bash
 npm install @react-navigation/native
 npx expo install react-native-screens react-native-safe-area-context
 npm install @react-navigation/native-stack
