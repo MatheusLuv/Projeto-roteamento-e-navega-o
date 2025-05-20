@@ -30,7 +30,5 @@ Estilização com StyleSheet.
 Imagens de fundo usando ImageBackground.
 
 🖼️ Home Screen
-
-![Image](https://github.com/user-attachments/assets/caa22eed-8ca4-43c8-ac0b-ecbfd753494b)
-
-![Image](https://github.com/user-attachments/assets/0b543c20-0146-4828-aea0-eea676a10a35)
+<img src="https://github.com/user-attachments/assets/caa22eed-8ca4-43c8-ac0b-ecbfd753494b" width="300" alt="Tela1">
+<img src="https://github.com/user-attachments/assets/0b543c20-0146-4828-aea0-eea676a10a35" width="300" alt="Tela2">
